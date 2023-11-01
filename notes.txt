@@ -1,1 +1,2 @@
-
+1-by using DB Context we able to make connection with database
+2-to tell application that it has to use db context which has inside the application dbcontext .And then it has to use a sql server using the connection string that we defined inside the appsettings.json we will tell our application to do that inside program.cs
