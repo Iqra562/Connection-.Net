@@ -1,0 +1,7 @@
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.AssemblyInfoInputs.cache
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.AssemblyInfo.cs
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.csproj.CoreCompileInputs.cache
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.MvcApplicationPartsAssemblyInfo.cache
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.RazorAssemblyInfo.cache
+C:\workfolder\Connection-.Net\DotNetConnection\obj\Debug\net6.0\DotNetConnection.RazorAssemblyInfo.cs
